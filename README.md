@@ -121,7 +121,9 @@ I'm always interested in meeting developers, exchanging ideas, and working on in
 <div align="center">
 
 <!-- 1. Contribution Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushriva123-boop&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ayushriva123-boop&show_icons=true&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Stats"/>
+
 
 <br/><br/>
 
