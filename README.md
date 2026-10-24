@@ -113,6 +113,33 @@ I'm always interested in meeting developers, exchanging ideas, and working on in
 </div>
 
 
+
+---
+
+## 📈 My GitHub Activity
+
+<div align="center">
+
+<!-- 1. Contribution Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushriva123-boop&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph"/>
+
+<br/><br/>
+
+<!-- 2. Animated Contribution Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayushriva123-boop/ayushriva123-boop/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayushriva123-boop/ayushriva123-boop/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/ayushriva123-boop/ayushriva123-boop/output/github-snake.svg" width="100%" alt="Animated contribution snake"/>
+</picture>
+
+<br/><br/>
+
+<!-- 3. Coding GIF -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Developer coding animation"/>
+
+<h3>💻 Eat • Sleep • Code • Repeat 🚀</h3>
+
+</div>
 <!--
 **ayushriva123-boop/ayushriva123-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
