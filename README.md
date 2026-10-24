@@ -50,6 +50,20 @@ A campus-focused application concept for reporting, browsing, and tracking lost 
 - Search and category filters
 - Report status tracking
 
+  
+### 🖨️ KwikPrint — Online Printing Platform
+
+A web-based printing platform concept designed to simplify document printing through an online workflow.
+
+- 📄 Document upload and print workflow
+- 💳 Online payment before printing
+- 🖨️ Raspberry Pi-connected printer integration
+- ⚙️ Exploring automated print job processing
+- 🎯 Focused on making campus printing more convenient
+
+**Tech Stack:** Web Development • Raspberry Pi • Printer Integration • Online Payments
+ website:www.kwikprint.in
+
 ### 🔐 QR-Based Smart Locker System
 
 A smart campus project concept combining web booking with QR identification and electronic locker access.
