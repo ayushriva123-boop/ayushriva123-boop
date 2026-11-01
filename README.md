@@ -11,7 +11,7 @@ Building projects, exploring new technologies, and connecting with developers.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ayushriva123-boop)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aa-ayush/)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0A66C5?style=for-the-badge&logo=vercel&logoColor=white)](https://ayushshrivastava.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-D4AF37?style=for-the-badge&logo=vercel&logoColor=white)](https://ayushshrivastava.vercel.app/)
 [![Profile Views](https://komarev.com/ghpvc/?username=ayushriva123-boop&style=for-the-badge&color=36BCF7)](https://github.com/ayushriva123-boop)
 
 </div>
