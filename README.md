@@ -105,7 +105,7 @@ A smart campus project concept combining web booking with QR identification and 
 
 I'm always interested in meeting developers, exchanging ideas, and working on interesting projects.
 
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/aa-ayush/) or explore my [GitHub repositories](https://github.com/ayushriva123-boop).
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/aa-ayush/) , [Portfolio](https://ayushshrivastava.vercel.app/)  or explore my [GitHub repositories](https://github.com/ayushriva123-boop).
 
 <div align="center">
 
