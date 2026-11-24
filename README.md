@@ -136,6 +136,26 @@ I'm always interested in meeting developers, exchanging ideas, and working on in
 
 ---
 
+
+## 💻 Try My Interactive Terminal
+
+<p align="center">
+  <a href="https://ayushshrivastava.vercel.app/">
+    <img src="./terminal-preview.svg" alt="Ayush Interactive Terminal" width="100%">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://ayushshrivastava.vercel.app/#terminal">
+    <img src="https://img.shields.io/badge/▶_LAUNCH_INTERACTIVE_TERMINAL-0D1117?style=for-the-badge&logo=windows-terminal&logoColor=36BCF7" alt="Launch Terminal">
+  </a>
+</p>
+
+<p align="center">
+  <i>Don't just read my profile. Interact with it! 🚀</i>
+</p>
+
+
 ## 📈 My GitHub Activity
 
 <div align="center">
