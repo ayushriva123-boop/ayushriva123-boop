@@ -4,6 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Ayush+Shrivastava+%F0%9F%91%8B;B.Tech+CSE+Student+%7C+Aspiring+Developer;Learning+%E2%80%A2+Building+%E2%80%A2+Growing;Building+QuickResolve+%F0%9F%9A%80;Turning+Ideas+Into+Projects" alt="Animated introduction"/>
 
 
+
 ## 💻 Try My Interactive Terminal
 
 <div align="center">
@@ -14,13 +15,14 @@
 
 <br/><br/>
 
-<a href="https://ayushshrivastava.vercel.app/#terminal">
+<a href="https://ayushshrivastava.vercel.app/">
   <img src="https://placehold.co/850x260/0D1117/36BCF7?text=%24+who+are+you%3F%0A%3E+HR+%7C+RECRUITER+%7C+FRIEND%0A%0A%24+Explore+Ayush's+World+%F0%9F%9A%80&font=roboto" width="100%" alt="Interactive Terminal Preview - Click to Explore"/>
 </a>
 
 **Don't just read my profile. Interact with it! 🚀**
 
 </div>
+
 
 # Hi, I'm Ayush 👋
 
