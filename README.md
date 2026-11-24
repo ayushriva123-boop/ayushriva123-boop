@@ -6,19 +6,21 @@
 
 
 
+
 ## 💻 Try My Interactive Terminal
 
-<div align="center">
+[![Interactive Terminal](https://raw.githubusercontent.com/ayushriva123-boop/ayushriva123-boop/main/terminal-preview.svg)](https://ayushshrivastava.vercel.app/)
 
-<a href="https://ayushshrivastava.vercel.app/" target="_blank">
-  <img src="./terminal-preview.svg" width="100%" alt="Open Ayush's Interactive Terminal"/>
-</a>
+<p align="center">
+  <a href="https://ayushshrivastava.vercel.app/">
+    🚀 OPEN INTERACTIVE TERMINAL
+  </a>
+</p>
 
-**🟢 Click the terminal to interact with me!**
+<p align="center">
+  <i>Don't just read my profile. Interact with it!</i>
+</p>
 
-[![Launch Terminal](https://img.shields.io/badge/OPEN_INTERACTIVE_TERMINAL-00C853?style=for-the-badge&logo=windows-terminal&logoColor=white)](https://ayushshrivastava.vercel.app/)
-
-</div>
 
 
 
