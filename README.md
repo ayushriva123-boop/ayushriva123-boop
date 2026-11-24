@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Ayush+Shrivastava+%F0%9F%91%8B;B.Tech+CSE+Student+%7C+Aspiring+Developer;Learning+%E2%80%A2+Building+%E2%80%A2+Growing;Turning+Ideas+Into+Projects+%F0%9F%9A%80" alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Ayush+Shrivastava+%F0%9F%91%8B;B.Tech+CSE+Student+%7C+Aspiring+Developer;Learning+%E2%80%A2+Building+%E2%80%A2+Growing;Building+QuickResolve+%F0%9F%9A%80;Turning+Ideas+Into+Projects" alt="Animated introduction"/>
 
 # Hi, I'm Ayush 👋
 
@@ -41,40 +41,60 @@ Building projects, exploring new technologies, and connecting with developers.
 
 ---
 
-## 🚀 Projects I'm Exploring
+## 🚀 Featured Projects
 
-### 🎓 Smart Campus Lost & Found System
+### 🔵 1. QuickResolve — Student Complaint Management Platform
+
+**Every concern deserves to be heard. Every issue deserves a path to resolution.**
+
+QuickResolve is a student-focused complaint management platform designed to make raising concerns, tracking progress, and resolving student issues more organized.
+
+**Key Highlights:**
+- 📝 Platform for students to raise complaints and concerns.
+- 📊 Complaint progress tracking.
+- 🔄 Organized review and resolution workflow.
+- 🎯 Designed to improve communication between students and institutions.
+
+**Project Links:**
+
+[🌐 Live Demo](https://quickresolve-one.vercel.app/) | [💻 GitHub Repository](https://github.com/ayushriva123-boop/QuickResolve)
+
+---
+
+### 🎓 2. Smart Campus Lost & Found System
 
 A campus-focused application concept for reporting, browsing, and tracking lost and found items.
 
-- Student dashboard and item listings
-- Search and category filters
-- Report status tracking
+- Student dashboard and item listings.
+- Search and category filters.
+- Report status tracking.
 
-  
-### 🖨️ KwikPrint — Online Printing Platform
+---
 
-A web-based printing platform concept designed to simplify document printing through an online workflow.
+### 🖨️ 3. KwikPrint — Online Printing Platform
 
-- 📄 Document upload and print workflow
-- 💳 Online payment before printing
-- 🖨️ Raspberry Pi-connected printer integration
-- ⚙️ Exploring automated print job processing
-- 🎯 Focused on making campus printing more convenient
+A web-based printing platform designed to simplify document printing through an online workflow.
 
-**Tech Stack:** Web Development • Raspberry Pi • Printer Integration • Online Payments
- website:www.kwikprint.in
+- 📄 Document upload and print workflow.
+- 💳 Online payment before printing.
+- 🖨️ Raspberry Pi-connected printer integration.
+- ⚙️ Automated print job processing exploration.
+- 🎯 Making campus printing more convenient.
 
-### 🔐 QR-Based Smart Locker System
+**Website:** [www.kwikprint.in](https://www.kwikprint.in)
+
+---
+
+### 🔐 4. QR-Based Smart Locker System
 
 A smart campus project concept combining web booking with QR identification and electronic locker access.
 
-- QR-based locker identification
-- Booking and usage time tracking
-- Online payment workflow
-- ESP32-based electronic lock control
+- QR-based locker identification.
+- Booking and usage time tracking.
+- Online payment workflow.
+- ESP32-based electronic lock control.
 
-> Project descriptions represent my project work and plans. I'll add repository links as the implementations become available.
+> Project descriptions represent my project work and plans. I'll add repository links as implementations become available.
 
 ---
 
@@ -105,7 +125,7 @@ A smart campus project concept combining web booking with QR identification and 
 
 I'm always interested in meeting developers, exchanging ideas, and working on interesting projects.
 
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/aa-ayush/) , [Portfolio](https://ayushshrivastava.vercel.app/)  or explore my [GitHub repositories](https://github.com/ayushriva123-boop).
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/aa-ayush/), [Portfolio](https://ayushshrivastava.vercel.app/) or explore my [GitHub repositories](https://github.com/ayushriva123-boop).
 
 <div align="center">
 
@@ -113,22 +133,14 @@ I'm always interested in meeting developers, exchanging ideas, and working on in
 
 </div>
 
-
-
 ---
 
 ## 📈 My GitHub Activity
 
 <div align="center">
 
-<!-- 1. Contribution Activity Graph -->
+<!-- Animated Contribution Snake -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=ayushriva123-boop&show_icons=true&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Stats"/>
-
-
-<br/><br/>
-
-<!-- 2. Animated Contribution Snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayushriva123-boop/ayushriva123-boop/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayushriva123-boop/ayushriva123-boop/output/github-snake.svg">
@@ -137,23 +149,8 @@ I'm always interested in meeting developers, exchanging ideas, and working on in
 
 <br/><br/>
 
-<!-- 3. Coding GIF -->
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Developer coding animation"/>
 
 <h3>💻 Eat • Sleep • Code • Repeat 🚀</h3>
 
 </div>
-<!--
-**ayushriva123-boop/ayushriva123-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
