@@ -5,23 +5,21 @@
 
 
 
+
 ## 💻 Try My Interactive Terminal
 
 <div align="center">
 
 <a href="https://ayushshrivastava.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/OPEN_AYUSH'S_INTERACTIVE_TERMINAL-0D1117?style=for-the-badge&logo=windows-terminal&logoColor=36BCF7&labelColor=161B22" alt="Open Interactive Terminal"/>
+  <img src="./terminal-preview.svg" width="100%" alt="Open Ayush's Interactive Terminal"/>
 </a>
 
-<br/><br/>
+**🟢 Click the terminal to interact with me!**
 
-<a href="https://ayushshrivastava.vercel.app/">
-  <img src="https://placehold.co/850x260/0D1117/36BCF7?text=%24+who+are+you%3F%0A%3E+HR+%7C+RECRUITER+%7C+FRIEND%0A%0A%24+Explore+Ayush's+World+%F0%9F%9A%80&font=roboto" width="100%" alt="Interactive Terminal Preview - Click to Explore"/>
-</a>
-
-**Don't just read my profile. Interact with it! 🚀**
+[![Launch Terminal](https://img.shields.io/badge/OPEN_INTERACTIVE_TERMINAL-00C853?style=for-the-badge&logo=windows-terminal&logoColor=white)](https://ayushshrivastava.vercel.app/)
 
 </div>
+
 
 
 # Hi, I'm Ayush 👋
