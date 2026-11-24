@@ -141,7 +141,7 @@ I'm always interested in meeting developers, exchanging ideas, and working on in
 
 <p align="center">
   <a href="https://ayushshrivastava.vercel.app/#terminal">
-    <img src="./terminal-preview.svg" alt="Ayush Interactive Terminal" width="80%">
+    <img src="./terminal-preview.svg" alt="Ayush Interactive Terminal" width="100%">
   </a>
 </p>
 
