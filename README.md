@@ -4,31 +4,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Ayush+Shrivastava+%F0%9F%91%8B;B.Tech+CSE+Student+%7C+Aspiring+Developer;Learning+%E2%80%A2+Building+%E2%80%A2+Growing;Building+QuickResolve+%F0%9F%9A%80;Turning+Ideas+Into+Projects" alt="Animated introduction"/>
 
 
-
-
-
-## 💻 Try My Interactive Terminal
-
-<p align="center">
-  <a href="https://ayushshrivastava.vercel.app/">
-    <img src="./terminal-preview.svg" alt="Ayush Interactive Terminal" width="100%">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://ayushshrivastava.vercel.app/">
-    <img src="https://img.shields.io/badge/▶_LAUNCH_INTERACTIVE_TERMINAL-0D1117?style=for-the-badge&logo=windows-terminal&logoColor=36BCF7" alt="Launch Terminal">
-  </a>
-</p>
-
-<p align="center">
-  <i>Don't just read my profile. Interact with it! 🚀</i>
-</p>
-
-
-
-
-
 # Hi, I'm Ayush 👋
 
 ### 💻 Computer Science Student | Aspiring Software Developer
