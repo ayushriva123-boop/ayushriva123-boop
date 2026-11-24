@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-<a href="https://ayushshrivastava.vercel.app/">
+<a href="https://ayushshrivastava.vercel.app/#terminal">
   <img src="https://placehold.co/850x260/0D1117/36BCF7?text=%24+who+are+you%3F%0A%3E+HR+%7C+RECRUITER+%7C+FRIEND%0A%0A%24+Explore+Ayush's+World+%F0%9F%9A%80&font=roboto" width="100%" alt="Interactive Terminal Preview - Click to Explore"/>
 </a>
 
