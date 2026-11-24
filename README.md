@@ -9,17 +9,22 @@
 
 ## 💻 Try My Interactive Terminal
 
-[![Interactive Terminal](https://raw.githubusercontent.com/ayushriva123-boop/ayushriva123-boop/main/terminal-preview.svg)](https://ayushshrivastava.vercel.app/)
-
 <p align="center">
   <a href="https://ayushshrivastava.vercel.app/">
-    🚀 OPEN INTERACTIVE TERMINAL
+    <img src="./terminal-preview.svg" alt="Ayush Interactive Terminal" width="100%">
   </a>
 </p>
 
 <p align="center">
-  <i>Don't just read my profile. Interact with it!</i>
+  <a href="https://ayushshrivastava.vercel.app/">
+    <img src="https://img.shields.io/badge/▶_LAUNCH_INTERACTIVE_TERMINAL-0D1117?style=for-the-badge&logo=windows-terminal&logoColor=36BCF7" alt="Launch Terminal">
+  </a>
 </p>
+
+<p align="center">
+  <i>Don't just read my profile. Interact with it! 🚀</i>
+</p>
+
 
 
 
