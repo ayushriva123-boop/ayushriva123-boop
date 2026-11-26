@@ -1,4 +1,8 @@
+## 📚 Practical Discussion
 
+Access the complete ChatGPT discussion here:
+
+[![ChatGPT Discussion](https://img.shields.io/badge/ChatGPT-Open%20Discussion-412991?style=for-the-badge&logo=openai&logoColor=white)](https://chatgpt.com/share/6b07b0d3-cf74-83ee-976c-33828dbec2cf)
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Ayush+Shrivastava+%F0%9F%91%8B;B.Tech+CSE+Student+%7C+Aspiring+Developer;Learning+%E2%80%A2+Building+%E2%80%A2+Growing;Building+QuickResolve+%F0%9F%9A%80;Turning+Ideas+Into+Projects" alt="Animated introduction"/>
